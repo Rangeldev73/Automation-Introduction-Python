@@ -20,24 +20,6 @@ The course introduces Python as a practical tool to automate repetitive daily co
 * [Python 3.x](https://python.org) installed on your machine.
 * Basic programming logic (helpful, but not mandatory).
 
-### How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd Automation-Introduction-Python
-   ```
-3. Install the required libraries (if applicable):
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the desired script:
-   ```bash
-   python script_name.py
-   ```
-
 ---
 
 ## 🇧🇷 Português
@@ -55,21 +37,3 @@ A proposta apresenta o uso do Python como ferramenta prática para automatizar t
 ### Pré-requisitos
 * [Python 3.x](https://python.org) instalado na máquina.
 * Noções básicas de lógica de programação (ajuda, mas não é obrigatório).
-
-### Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd Automation-Introduction-Python
-   ```
-3. Instale as bibliotecas necessárias (se houver):
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Execute o script desejado:
-   ```bash
-   python nome_do_script.py
-   ```
